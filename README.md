@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eric-Corte
+- 👋 Hi, I’m @Eric-Cortez
 - 🌱 I’m currently learning to code on my own and will be starting a boot camp in July of this year
 - 📫 How to reach me at cortezecr@gmail.com
 
