@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eric-Cortez
-- 🌱 I’m currently learning to code on my own and will be starting a boot camp in July of this year
-- 📫 How to reach me at cortezecr@gmail.com
+- 🌱 I’m currently attending App Academy. 
+- 📫 How to reach me at ecrcortez@gmail.com
 
 <!---
 Eric-Cortez/Eric-Cortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
