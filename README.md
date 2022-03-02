@@ -9,17 +9,17 @@ errors to find the source of a bug.
 I love the process of developing my ideas into existence and finding ways 
 to research and implement new technologies to improve user experience. 
 
-
-
-
 - 👨🏻‍💻 I’m currently attending App Academy to sharpen my skills. 
 - 📫 Reach me at ecrcortez@gmail.com
 - Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/)
 - Find me on [AngelList](https://angel.co/u/eric-cortez-2)
 
-## Technologies 
-***
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&theme=radical)
+
+
+### Technologies 
 <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40/><img 
@@ -32,15 +32,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
  React | Redux | Flask | Postgres |SQLAlchemy | Alembic | CSS | Git | Node.js | NPM | HTML / JSX | Heroku
 
-## Languages 
-***
-
+### Languages 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=40/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
 * JavaScript (frontend)
 * Python (backend)
 
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&theme=radical)
 
