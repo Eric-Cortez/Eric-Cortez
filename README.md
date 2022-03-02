@@ -1,7 +1,7 @@
 ## Hi, I'm Eric 👋 
 
-I am a passionate software engineer and I enjoy developing resopnsive 
-websites that incorperate elements of modern design using technologies 
+I am a passionate software engineer and I enjoy developing responsive 
+websites that incorporate elements of modern design using technologies 
 like HTML, CSS3, Grids, and JavaScript. Additionally, I enjoy testing 
 backend routes, problem-solving, and using console logs/reading 
 errors to find the source of a bug.
