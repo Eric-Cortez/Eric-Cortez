@@ -17,3 +17,5 @@ to research and implement new technologies to improve user experience.
 - Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/)
 - Find me on [AngelList](https://angel.co/u/eric-cortez-2)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats)
+
