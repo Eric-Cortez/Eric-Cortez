@@ -13,7 +13,7 @@ to research and implement new technologies to improve user experience.
 - 📫 Reach me at ecrcortez@gmail.com
 - Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/)
 - Find me on [AngelList](https://angel.co/u/eric-cortez-2)
-
+- [Portfolio](https://eric-cortez.github.io/)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&theme=radical)
