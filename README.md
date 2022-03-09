@@ -10,7 +10,7 @@ I love the process of developing my ideas into existence and finding ways
 to research and implement new technologies to improve user experience. 
 
 - 👨🏻‍💻 I’m currently attending App Academy to sharpen my skills. 
-- 📫 Reach me at ecrcortez@gmail.com || (503) 567-5093
+- 📫 Reach me at ecrcortez@gmail.com OR (503) 567-5093
 - Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/)
 - Find me on [AngelList](https://angel.co/u/eric-cortez-2)
 - [Portfolio](https://eric-cortez.github.io/)
