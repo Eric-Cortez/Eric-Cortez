@@ -11,8 +11,7 @@ to research and implement new technologies to improve user experience.
 
 - 👨🏻‍💻 I am a Frontend Developer II at Meta!
 - 📫 Reach me at ecrcortez@gmail.com OR (503) 567-5093
-- Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/)
-- Find me on [AngelList](https://angel.co/u/eric-cortez-2)
+- Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/) or [AngelList](https://angel.co/u/eric-cortez-2)
 - [Portfolio](https://eric-cortez.github.io/)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats) -->
