@@ -82,12 +82,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=40/><img  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height=40/><img 
-src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/><img                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"  height=40/><img   
+src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/><img             src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height=40/><img
+src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40"/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"  height=40/><img   
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height=40/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>
 
 
- React | Redux | Flask | Postgres |SQLAlchemy | Alembic | CSS | Git | Node.js | NPM | HTML / JSX | Heroku | Anaconda | Sphinx | Docusaurus | Jupyter Notebook | IPywidgets | Anacond 
+
+
+<!--  React | Redux | CSS | HTML / JSX | Node.js |  Flask | Postgres | SQLAlchemy | Alembic |  Git | 
+ NPM |  Heroku | Anaconda | Sphinx | Docusaurus | Jupyter Notebook | IPywidgets | Anacond  -->
 
 <div align='center'>
 
