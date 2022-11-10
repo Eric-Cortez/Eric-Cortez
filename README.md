@@ -71,11 +71,13 @@ to research and implement new technologies to improve user experience.
 </div>
 
 ### Languages 
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=40/><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/><img
+src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
+
 * JavaScript (frontend)
 * Python (backend)
-
+* Learning Swift 
 
 ### Technologies 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
