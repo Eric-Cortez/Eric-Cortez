@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 I am a passionate software engineer and I enjoy developing responsive 
 websites that incorporate elements of modern design using technologies 
 like HTML, CSS3, Grids, and JavaScript. Additionally, I enjoy testing 
-backend routes, problem-solving, and using console logs/reading 
+backend routes, problem-solving, and reviewing code/reading 
 errors to find the source of a bug.
 
 I love the process of developing my ideas into existence and finding ways 
