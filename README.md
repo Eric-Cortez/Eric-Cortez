@@ -56,7 +56,7 @@ to research and implement new technologies to improve user experience.
  
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eric-Cortez.visitor-badge)
  
-- 👨🏻‍💻 I am a Frontend Developer II at Meta! - Contract
+- 👨🏻‍💻 I am a Frontend Developer II at Meta!
 - 📫 Reach me at ecrcortez@gmail.com OR (503) 567-5093
 - [Portfolio](https://eric-cortez.github.io/)
 <a href="https://www.linkedin.com/in/eric-cortez-0101/" target="_blank">
