@@ -102,12 +102,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 </div>
 
-### Github Stats
+<!-- ### Github Stats
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eric-Cortez&count_private=true&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eric-Cortez&show_icons=true&locale=en&layout=compact&theme=radical"/>
-</p>
+</p> -->
  
 <!-- ### Projects
 
