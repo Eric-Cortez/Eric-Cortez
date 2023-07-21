@@ -73,17 +73,20 @@ to research and implement new technologies to improve user experience.
 ### Languages 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/><img
+src="https://hacklang.org/img/hack.svg" height=50/><img
 src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
 
 * JavaScript (frontend)
 * Python (backend)
+* Hack (backend)
 * Learning Swift 
 
 ### Technologies 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height=40/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height=40/><img  
+src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"  height=40/><img 
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/><img             src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height=40/><img
 src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"  height=40/><img   
