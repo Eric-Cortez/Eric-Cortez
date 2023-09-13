@@ -72,11 +72,12 @@ to research and implement new technologies to improve user experience.
 </div>
 
 ### Languages 
-<img  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/cpp.png"  height=50/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
+<img  src="https://github.com/Eric-Cortez/Eric-Cortez/assets/80999718/ae3a1ba9-17cf-4eb6-993f-aaa39c249842"  height=50/><img  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/cpp.png"  height=50/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/><img
 src="https://hacklang.org/img/hack.svg" height=50/><img
 src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
 
+* C
 * C++
 * JavaScript (frontend)
 * Python (backend)
