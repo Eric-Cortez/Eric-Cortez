@@ -67,6 +67,8 @@ to research and implement new technologies to improve user experience.
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
+ 
+ - [Replit Profile](https://replit.com/@EricCortez5) 
 
 
 </div>
