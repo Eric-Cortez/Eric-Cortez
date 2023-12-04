@@ -1,92 +1,28 @@
-<!-- ## Hi, I'm Eric 👋 
+# Hi, I'm Eric 👋 
 
-I am a passionate software engineer and I enjoy developing responsive 
-websites that incorporate elements of modern design using technologies 
-like HTML, CSS3, Grids, and JavaScript. Additionally, I enjoy testing 
-backend routes, problem-solving, and using console logs/reading 
-errors to find the source of a bug.
+I am a dedicated and results-driven Software Engineer with a proven track record in developing responsive and visually appealing websites. Since 2020, I have been immersed in the dynamic world of software development, refining my skills and contributing to impactful projects.
 
-I love the process of developing my ideas into existence and finding ways 
-to research and implement new technologies to improve user experience. 
+## Professional Experience
 
-- 👨🏻‍💻 I am a Frontend Developer II at Meta!
-- 📫 Reach me at ecrcortez@gmail.com OR (503) 567-5093
-- Find me on [Linkedin](https://www.linkedin.com/in/eric-cortez-0101/) or [AngelList](https://angel.co/u/eric-cortez-2)
-- [Portfolio](https://eric-cortez.github.io/)
+- 👨🏻‍💻 Currently a Software Engineer III at Meta, where I actively contribute to the development of cutting-edge technologies.
+- 🚀 Graduated from App Academy's rigorous Software Engineering bootcamp, showcasing my commitment to continuous learning and growth.
+- 💡 Passionate about problem-solving and adept at identifying and resolving complex issues in both frontend and backend development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez)](https://github.com/Eric-Cortez/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&theme=radical)
+## Technical Proficiency
 
-
-### Technologies 
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40/><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height=40/><img  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height=40/>
-
-
- React | Redux | Flask | Postgres |SQLAlchemy | Alembic | CSS | Git | Node.js | NPM | HTML / JSX | Heroku | Anaconda | Sphinx | Docusaurus | Jupyter Notebook | IPywidgets | Anacond 
-
-### Languages 
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=40/><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>
-* JavaScript (frontend)
-* Python (backend)
-* C++
- -->
-
-<div align='center'>
- 
-</div>
-
-<div>
-  <h1>Hi, I'm Eric 👋 </h1>
-
-I am a passionate software engineer and I enjoy developing responsive 
-websites that incorporate elements of modern design using technologies 
-like HTML, CSS3, Grids, and JavaScript. Additionally, I enjoy testing 
-backend routes, problem-solving, and reviewing code/reading 
-errors to find the source of a bug.
-
-I love the process of developing my ideas into existence and finding ways 
-to research and implement new technologies to improve user experience. 
- 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Eric-Cortez.visitor-badge) -->
- 
-- 👨🏻‍💻 I am a Software Engineer III at Meta!
-- 📫 Reach me at ecrcortez@gmail.com OR (503) 567-5093
-- [Portfolio](https://eric-cortez.github.io/)
-<a href="https://www.linkedin.com/in/eric-cortez-0101/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
- </img>
- </a><a href="https://angel.co/u/eric-cortez-2" target="_blank">
-   <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
- </img>
- </a>
- 
- - [Replit Profile](https://replit.com/@EricCortez5) 
-
-
-</div>
-
-### Languages 
+### Languages
 <img  src="https://github.com/Eric-Cortez/Eric-Cortez/assets/80999718/ae3a1ba9-17cf-4eb6-993f-aaa39c249842"  height=50/><img  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/cpp.png"  height=50/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/><img
 src="https://hacklang.org/img/hack.svg" height=50/><img
 src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
+- JavaScript (Frontend)
+- Python, Hack (Backend)
+- C and C++ for systems-level programming
+- Exploring Swift for iOS development
 
-* C
-* C++
-* JavaScript (frontend)
-* Python (backend)
-* Hack (backend)
-* Learning Swift 
 
-### Technologies 
+### Technologies
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=40/><img  
@@ -99,27 +35,50 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  h
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40"/>
 
 
+- Proficient in React and Redux for building scalable and maintainable frontend applications.
+- Experienced with Flask and SQLAlchemy for robust backend development.
+- Skilled in HTML5, CSS3, and modern design principles, creating engaging user interfaces.
+- Familiar with Git for version control, ensuring collaborative and efficient development workflows.
+- Utilizing AWS, Heroku, and Docker for deployment and cloud solutions.
+
+## Open-Source Contribution
+
+- Actively contributed to the open-source project [aepsycvh](https://github.com/[your-username]/aepsycvh), demonstrating my commitment to community-driven development.
 
 
-<!--  React | Redux | CSS | HTML / JSX | Node.js |  Flask | Postgres | SQLAlchemy | Alembic |  Git | 
- NPM |  Heroku | Anaconda | Sphinx | Docusaurus | Jupyter Notebook | IPywidgets | Anacond  -->
+### Programming Paradigms
 
-<div align='center'>
+- Proficient in both functional and object-oriented programming paradigms, bringing versatility to software development approaches.
 
-</div>
+### Design and Development
 
-</div>
+- Expertise in validation processes, ensuring code quality and reliability.
+- Advocate for accessibility, incorporating best practices to create inclusive digital experiences.
+- Skilled in responsive web design, delivering seamless user experiences across various devices.
+- Strong foundation in interaction design, focusing on intuitive and user-friendly interfaces.
 
-<!-- ### Github Stats
+## Achievements and Contributions
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eric-Cortez&count_private=true&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eric-Cortez&show_icons=true&locale=en&layout=compact&theme=radical"/>
-</p> -->
- 
-<!-- ### Projects
+- Successfully graduated from App Academy, a highly selective and intensive software engineering bootcamp.
+- Acknowledged by the Open Knowledge Foundation for adhering to the "Open Definition" with CC BY, CC BY-SA, and CC0 licenses.
+- Proven ability to adapt to evolving technologies, evident from my consistent pursuit of knowledge and exploration of new tools.
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-Cortez&repo=edcGear&theme=gotham&card_width=500)](https://github.com/Eric-Cortez/edcGear)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-Cortez&repo=LodgeINN&&count_private=true&include_all_commits=true&theme=gotham&card_width=500)](https://github.com/Eric-Cortez/LodgeINN)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-dodsonknapp&repo=Cara&theme=gotham&card_width=100)](https://github.com/k-dodsonknapp/Cara)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitxandalf&repo=gameZ&&count_private=true&include_all_commits=true&theme=gotham&card_width=100)](https://github.com/gitxandalf/gameZ) -->
+## Let's Connect!
+
+- 📫 Reach me at [ecrcortez@gmail.com](mailto:ecrcortez@gmail.com) or (503) 567-5093.
+- [Replit Profile](https://replit.com/@EricCortez5)
+- [Portfolio](https://eric-cortez.github.io/)
+<a href="https://www.linkedin.com/in/eric-cortez-0101/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+ </img>
+ </a><a href="https://angel.co/u/eric-cortez-2" target="_blank">
+   <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
+ </img>
+ </a>
+
+I am enthusiastic about contributing my skills and passion for coding to innovative projects. Let's connect and explore how my expertise can add value to your team!
+
+
+
+
+
