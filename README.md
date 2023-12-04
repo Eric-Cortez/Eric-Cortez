@@ -7,6 +7,8 @@ I am a dedicated and results-driven Software Engineer with a proven track record
 - 👨🏻‍💻 Currently a Software Engineer III at Meta, where I actively contribute to the development of cutting-edge technologies.
 - 🚀 Graduated from App Academy's rigorous Software Engineering bootcamp, showcasing my commitment to continuous learning and growth.
 - 💡 Passionate about problem-solving and adept at identifying and resolving complex issues in both frontend and backend development.
+- 🌐 Regional Committee Member, Human Services County of Sonoma (2018-2021)
+  - Collaborated with 58 counties across the state of California as a subject matter expert to aid in the development of the first California Statewide Automated Welfare System (CalSAWS) that will streamline public assistance across the state.
 
 ## Technical Proficiency
 
