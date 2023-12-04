@@ -1,6 +1,6 @@
 # Hi, I'm Eric 👋 
 
-I am a dedicated and results-driven Software Engineer with a proven track record in developing responsive and visually appealing websites. Since 2020, I have been immersed in the dynamic world of software development, refining my skills and contributing to impactful projects.
+I am a dedicated and results-driven Software Engineer with a proven track record in developing responsive and visually appealing websites. Since 2018, I have been immersed in the dynamic world of software development, refining my skills and contributing to impactful projects.
 
 ## Professional Experience
 
