@@ -4,7 +4,7 @@ I am a dedicated and results-driven Software Engineer with a proven track record
 
 ## Professional Experience
 
-- 👨🏻‍💻 Currently a Software Engineer III at Meta, where I actively contribute to the development of cutting-edge technologies.
+- 👨🏻‍💻 Currently a Software Engineer at Meta, where I actively contribute to the development of cutting-edge technologies.
 - 🚀 Graduated from App Academy's rigorous Software Engineering bootcamp, showcasing my commitment to continuous learning and growth.
 - 💡 Passionate about problem-solving and adept at identifying and resolving complex issues in both frontend and backend development.
 - 🌐 Regional Committee Member, Human Services County of Sonoma (2018-2021)
