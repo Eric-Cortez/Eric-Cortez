@@ -45,7 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 ## Open-Source Contribution
 
-- Actively contributed to the open-source project [aepsycvh](https://github.com/[your-username]/aepsycvh), demonstrating my commitment to community-driven development.
+- Actively contributed to the open-source project [aepsych](https://github.com/facebookresearch/aepsych), demonstrating my commitment to community-driven development.
 
 
 ### Programming Paradigms
