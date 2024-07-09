@@ -19,7 +19,7 @@ src="https://hacklang.org/img/hack.svg" height=50/><img
 src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
 - JavaScript, TypeScript (Frontend)
 - Python, Hack (Backend)
-- C and C++ for systems-level programming
+- C++ for systems-level programming
 - Exploring Swift for iOS development
 
 
