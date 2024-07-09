@@ -4,8 +4,8 @@ I am a dedicated and results-driven Software Engineer with a proven track record
 
 ## Professional Experience
 
-- 👨🏻‍💻 Currently a Software Engineer at Meta, where I actively contribute to the development of cutting-edge technologies.
-- 🚀 Graduated from App Academy's rigorous Software Engineering bootcamp, showcasing my commitment to continuous learning and growth.
+- 👨🏻‍💻 Former Software Engineer at Meta, currently contributing to cutting-edge technology development at Samsara.
+- 🚀 Nearing completion of Computer Studies at Santa Rosa Junior College and graduated from App Academy's rigorous Software Engineering bootcamp, showcasing my commitment to continuous learning and growth. 
 - 💡 Passionate about problem-solving and adept at identifying and resolving complex issues in both frontend and backend development.
 - 🌐 Regional Committee Member, Human Services County of Sonoma (2018-2021)
   - Collaborated with 58 counties across the state of California as a subject matter expert to aid in the development of the first California Statewide Automated Welfare System (CalSAWS) that will streamline public assistance across the state.
@@ -13,11 +13,11 @@ I am a dedicated and results-driven Software Engineer with a proven track record
 ## Technical Proficiency
 
 ### Languages
-<img  src="https://github.com/Eric-Cortez/Eric-Cortez/assets/80999718/ae3a1ba9-17cf-4eb6-993f-aaa39c249842"  height=50/><img  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/cpp.png"  height=50/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img
+<img  src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/cpp.png"  height=50/><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=50/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height=50/><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/><img
 src="https://hacklang.org/img/hack.svg" height=50/><img
 src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" height=50/>
-- JavaScript (Frontend)
+- JavaScript, TypeScript (Frontend)
 - Python, Hack (Backend)
 - C and C++ for systems-level programming
 - Exploring Swift for iOS development
