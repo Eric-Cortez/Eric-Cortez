@@ -2,6 +2,12 @@
 
 I am a dedicated and results-driven Software Engineer with a passion for leveraging unique perspectives and creative problem-solving to drive impactful solutions. Since 2018, I have immersed myself in software development, continually refining my skills and contributing to innovative projects.
 
+ <p align="center"> 
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Eric-Cortez&theme=highcontrast&hide_border=true">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&count_private=true&theme=highcontrast"> -->
+ </p>
+
+
 ## Professional Experience
 
 - 👨🏻‍💻 **Current Role:** Contributing to localization projects at Samsara, focusing on integrating and streamlining localization processes to enhance global accessibility.
