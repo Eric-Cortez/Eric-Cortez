@@ -7,14 +7,15 @@ I am a dedicated and results-driven Software Engineer with a passion for leverag
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Eric-Cortez&show_icons=true&count_private=true&theme=highcontrast"> -->
  </p>
 
-
 ## Professional Experience
 
-- 👨🏻‍💻 **Current Role:** Contributing to localization projects at Samsara, focusing on integrating and streamlining localization processes to enhance global accessibility.
-- 🚀 **Previous Experience:** Former Software Engineer on contract at Meta, where I contributed to advanced technology development and delivered effective project solutions.
-- 🎓 **Education:** Nearing completion of Computer Studies at Santa Rosa Junior College, and graduated from App Academy's rigorous Software Engineering bootcamp, demonstrating my commitment to continuous learning and growth.
+- 👨🏻‍💻 **Current Role:** Web Application Developer at **CVS Aetna**, where I develop insightful web applications using **Dash, Python, JavaScript, SQL, Postgres, and FastAPI**. My work empowers executives to make data-driven decisions by transforming complex data into actionable insights.
+- 🚀 **Previous Experience:**
+    - Contributed to localization projects at **Samsara**, focusing on integrating and streamlining processes to enhance global accessibility.
+    - Former Software Engineer on contract at **Meta**, where I contributed to advanced technology development and delivered effective project solutions.
+- 🎓 **Education:** Nearing completion of Computer Studies at **Santa Rosa Junior College**, and a graduate of **App Academy's** rigorous Software Engineering bootcamp, demonstrating my commitment to continuous learning and growth.
 - 💡 **Expertise:** Passionate about solving complex problems and adept at both frontend and backend development, utilizing a diverse skill set to tackle technical challenges.
-- 🌐 **Previous Role:** Regional Committee Member, Human Services County of Sonoma (2018-2021) – Collaborated with 58 counties across California to develop the California Statewide Automated Welfare System (CalSAWS), streamlining public assistance across the state.
+- 🌐 **Community Engagement:** Regional Committee Member, Human Services County of Sonoma (2018-2021) – Collaborated with 58 counties across California to develop the California Statewide Automated Welfare System (CalSAWS), streamlining public assistance across the state.
 
 ## Technical Proficiency
 
